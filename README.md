@@ -7,4 +7,4 @@ Convolutional neural networks (CNNs) have been improving significantly in both p
 
 # Folder Descriptions
 
-add this
+ResNet contains training/test code for the base ResNet_10 model, ResNet_10 with dropout, ResNet_10 with batch normalization, ResNet_10 with weight decay and ResNet with 20 resblocks within a singular jupyter notebook.
